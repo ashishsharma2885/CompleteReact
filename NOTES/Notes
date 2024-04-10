@@ -1,0 +1,12 @@
+What is React?
+1- React is on open javascript libray for building a user interface(UI)
+2- React allows to create reusable UI components
+3- It is used to make a single page application(SPA)
+
+Single page Application?
+1- When we have many componenets in website if we click any one of then page will never reload or refresh only the same components will updates
+2-Performance again more Dynamic experience
+
+Libary and framework?
+1- Both are reausble pices of code written by developer to solve complicated problems
+2- A libary is a collection of of packages that perform specfic operations whereas a framework contains the basic flow and architecture of an application.
